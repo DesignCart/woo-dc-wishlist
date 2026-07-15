@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Design Cart Wishlist for WooCommerce — Documentation</title>
-<meta name="description" content="Documentation for Design Cart Wishlist for WooCommerce: installation, settings, header placement, CSS selector rules, shortcodes, guest wishlists, and theme integration without hooks.">
-</head>
-<body>
-
-<article>
-
 <p><strong>Repository description (GitHub About):</strong> A flexible WooCommerce wishlist plugin with configurable heart buttons in the header, product loops, and single product pages — theme-agnostic placement via CSS selectors, WooCommerce hooks, and shortcodes.</p>
 
 <h1>Design Cart Wishlist for WooCommerce</h1>
@@ -256,10 +245,5 @@ design-cart-wishlist/
 
 <h2>Support</h2>
 <p>For bugs and feature requests, please use the GitHub Issues tab. Include WordPress version, WooCommerce version, active theme, and steps to reproduce.</p>
-
-<p><em>© Design Cart · Paweł Nosko</em></p>
-
-</article>
-
-</body>
-</html>
+<p>Author: <a href="https://www.designcart.pl/pawel-nosko.html">Paweł Nosko</a></p>
+<p>Project Page: <a href="https://www.designcart.pl/laboratorium/337-lista-zyczen-w-woocommerce-darmowy-uniwersalny-plugin-design-cart-wishlist.html">Design Cart Wishlist</a></p>
