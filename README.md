@@ -226,13 +226,6 @@ design-cart-wishlist/
 <li>Shortcodes: <code>dc_wishlist</code>, <code>dc_wishlist_button</code></li>
 </ul>
 
-<h2>Links</h2>
-<ul>
-<li>Website: <a href="https://designcart.pl">designcart.pl</a></li>
-<li>WordPress.org: <a href="https://wordpress.org/plugins/design-cart-wishlist/">design-cart-wishlist</a> (when published)</li>
-<li>Issues &amp; contributions: GitHub repository</li>
-</ul>
-
 <h2>Changelog</h2>
 <h3>1.0.0</h3>
 <ul>
@@ -243,7 +236,7 @@ design-cart-wishlist/
 <li>Plugin Check / WordPress.org ready</li>
 </ul>
 
-<h2>Support</h2>
+<h2>Support & Links</h2>
 <p>For bugs and feature requests, please use the GitHub Issues tab. Include WordPress version, WooCommerce version, active theme, and steps to reproduce.</p>
 <p>Author: <a href="https://www.designcart.pl/pawel-nosko.html">Paweł Nosko</a></p>
 <p>Project Page: <a href="https://www.designcart.pl/laboratorium/337-lista-zyczen-w-woocommerce-darmowy-uniwersalny-plugin-design-cart-wishlist.html">Design Cart Wishlist</a></p>
